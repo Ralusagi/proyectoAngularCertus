@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+*{
+    font-family: 'Indie Flower', cursive;
+}
+.titulo-principal{
+    text-shadow: 3px 3px #00000044;
+}
+
+body{
+    background-image: url(../img/photo-1598920710727-e6c74781538c.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.imagenesBonitas{
+    background-image: url(../img/png-clipart-common-sunflower-transparency-sunflower-sunflower-sunflower-seed.png);
+    background-color: transparent;
+}
+
+.modal-footer,.modal-header{
+    background-image: url(../img/75618898-fondo-de-girasol-para-la-presentación.webp);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    
+}
+
+.modal-title{
+    color: #800080;
+    font-weight: bolder;
+}
+
+.boton-pregunta{
+    text-shadow: 1px 1px #ffffff;
+}
+
+.titulo-modal{
+    color: #800080;
+    font-weight: bolder;
+}
+
+.poema{
+    font-style: oblique;
+}
+
+
+.h3-cositas{
+    text-shadow: 1px 1px #000000;
+}
